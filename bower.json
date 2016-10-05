@@ -1,0 +1,14 @@
+{
+  "name": "ng-only-number",
+  "homepage": "https://github.com/dcgteam/ng-only-number",
+  "description": "Angular directive to validate number in input textbox with options to limit no of digits before and after decimal point ",
+  "main": "src/only-number.js",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
