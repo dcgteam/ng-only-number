@@ -5,7 +5,7 @@ Angular directive to restrict input to only allow numbers in textbox while typin
 ## Install
 
 ```bash
-bower install --save https://github.com/dcgteam/ng-only-number
+bower install --save https://github.com/dcgteam/ng-only-number.git
 ```
 
 ## How to use
